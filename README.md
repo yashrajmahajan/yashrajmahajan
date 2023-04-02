@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashrajmahajan
-- 👀 I’m interested in Software development.
-- 🌱 learn Something interesting.
-- 💞️ open source.
-- 📫 How to reach me: yashrajmahajan260@gmail.com
+- 👀 Interested in product development.
+- 🌱 Learn something interesting.
+- 💞️ Open source.
+- 📫 Reach me at: yashrajmahajan260@gmail.com
 
